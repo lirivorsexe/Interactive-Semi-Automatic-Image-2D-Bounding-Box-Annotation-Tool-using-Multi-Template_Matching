@@ -7,7 +7,7 @@ Copyright {2021} {Robert Arvind}
 """
 
 
-import cv2
+import cv2 #тут был я
 import numpy as np
 import matplotlib.pyplot as plt
 import os
